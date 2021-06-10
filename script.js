@@ -15,8 +15,8 @@ menuBtn.addEventListener("click",()=> {
     navigation.classList.toggle("active")
 })
 
-navigationItems.forEach((navigationItems)=>{
-    navigationItems.addEventListener("click",()=> {
+navigationItems.forEach((navigationItem)=>{
+    navigationItem.addEventListener("click",()=> {
         menuBtn.classList.remove("active")
         navigation.classList.remove("active")
     })
