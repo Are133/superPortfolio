@@ -77,7 +77,7 @@ section{
 
 .btn{
   color: #fff;
-  background: #3a6cf4;
+  background: #23d4a8;
   font-size: 1em;
   font-weight: 600;
   display: inline-block;
@@ -91,7 +91,7 @@ section{
 }
 
 .btn:hover{
-  background: #47e79c;
+  background: #1836e0;
 }
 
 .media-icons{
@@ -99,7 +99,7 @@ section{
 }
 
 .media-icons a{
-  color: #fff;
+  color: rgb(9, 179, 247);
   font-size: 25px;
   margin-right: 30px;
 }
@@ -654,7 +654,7 @@ body{
 .scrollToTop-btn{
   z-index: 999;
   position: fixed;
-  background: #3a6cf4;
+  background: #85ee6b;
   color: #fff;
   width: 45px;
   height: 45px;
